@@ -1,5 +1,5 @@
 # react-hooks
-A personal collection of useful react hooks
+A personal collection of react hooks resources
 
 [React Hooks library for data fetching](https://swr.vercel.app/)
 
@@ -18,3 +18,13 @@ A personal collection of useful react hooks
 [useHooks](https://usehooks.com/)
 
 [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
+
+[Use Clippy](https://github.com/CharlesStover/use-clippy#readme)
+
+[React Script Hook](https://github.com/hupe1980/react-script-hook#readme)
+
+[Hooks Recipes](https://github.com/craig1123/react-recipes)
+
+[React Hooks collection](https://nikgraf.github.io/react-hooks/)
+
+[Beautiful React Hooks](https://beautifulinteractions.github.io/beautiful-react-hooks/)
